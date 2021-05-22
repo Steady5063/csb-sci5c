@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{55:function(e,t,n){"use strict";n.r(t);var a=n(1),r=n(2),c=n(4),i=n(3),s=n(0),u=n.n(s),o=function(e){Object(c.a)(n,e);var t=Object(i.a)(n);function n(){return Object(a.a)(this,n),t.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return u.a.createElement("span",{className:"alertText","aria-live":"assertive"},"THIS IS A LAZY LOADED COMPONENT")}}]),n}(s.Component);t.default=o}}]);
+//# sourceMappingURL=3.9e976d6d.chunk.js.map
